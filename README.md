@@ -4,7 +4,7 @@
 
 # 💫 About Me
 
-🔭 currently working on my own project and my portfolio<br>🌱 learning as a data engineer<br>🌍 welcome to my world stuck between music, coding, sport and gaming (...and so many other things)<br>📝 work in progress<br>☀️ i also enjoy life as much as i can
+🔭 currently working on my own project and my portfolio<br>🌱 learning as a data engineer<br>🌍 welcome to my world stuck between music, coding, sport and gaming (...and so many other things)<br>☀️ i also enjoy life as much as i can
 # 💻 Tech Stack
 
 <b>data engineering :<br>
