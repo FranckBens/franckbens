@@ -4,8 +4,7 @@
 
 # 💫 About Me
 
-🔭 currently working on my own wabpage<br>🌱 Learning as a data engineer<br>⚡ Welcome to my World stuck between music, coding, sport and gaming
-
+🔭 currently working on my own wabpage<br>🌱 Learning as a data engineer<br>⚡ Welcome to my World stuck between music, coding, sport and gaming<br>🚧Work In Progress
 # 💻 Tech Stack
 
 <b>data engineering :<br>
