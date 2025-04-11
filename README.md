@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![alt text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmNmNzgzMXN6MmhteHhzaW9mZHc1NDJvZWo0Z2c3eGxwNTZzNHptdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y1drhyVxFobostxN8c/giphy.gif)
+
 # 💫 About Me
 
 🔭 currently working on my own wabpage<br>🌱 Learning as a data engineer<br>⚡ Welcome to my World stuck between music, coding, sport and gaming
