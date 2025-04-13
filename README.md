@@ -4,7 +4,7 @@
 
 # 💫 About Me
 
-🔭 Currently working on my own project and my portfolio<br>🌱 Learning as a data engineer<br>🌍 Welcome to my world stuck between music, coding, sport and gaming (...and so many things)<br>☀️ I also enjoy life as much as I can
+🔭 Currently working on my own project and my portfolio<br>🌱 Learning as a data engineer<br>🌍 Welcome to my world stuck between music, coding, sport and gaming (...and so many things)<br>☀️ I also enjoy life as much as I can 
 # 💻 Tech Stack
 
 <b>data engineering :<br>
@@ -50,7 +50,7 @@ frameworks, platforms & libraries :<br>
 ![](https://github-contributor-stats.vercel.app/api?username=franckbens&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
+Now, I have to feed him more...
 [![](https://visitcount.itsvg.in/api?id=franckbens&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <picture>
