@@ -56,8 +56,7 @@ Now, I have to feed him more...
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/franckbens/franckbens/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/franckbens/franckbens/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-
+  
   <img alt="github-snake" src="https://raw.githubusercontent.com/franckbens/franckbens/output/github-snake.svg" />
 </picture>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
